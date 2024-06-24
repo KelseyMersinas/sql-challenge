@@ -1,1 +1,3 @@
 # sql-challenge
+
+Here I used SQL in pgAdmin to import several CSV files that hold information on employees at an example company. After correctly importing the files I created an entity relationship diagram to display the tables and answer several questions about the given information. Use querys and joins  display the wanted information. The tables and the queries were saved in seperate files along with the query results themselves. 
